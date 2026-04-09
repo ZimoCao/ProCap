@@ -107,6 +107,7 @@ If you find our dataset or code helpful for your research, please kindly conside
   booktitle = {2026 IEEE Conference on Virtual Reality and 3D User Interfaces (in press)},
   title     = {ProCap: Projection-Aware Captioning for Spatial Augmented Reality},
   year      = {2026},
+  doi       = {10.1109/VR67842.2026.00026}
 }
 ```
 
