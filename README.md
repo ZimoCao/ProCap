@@ -104,7 +104,7 @@ If you find our dataset or code helpful for your research, please kindly conside
 ```bibtex
 @ARTICLE{Cao2026ProCap,
   author    = {Cao, Zimo and Deng, Yuchen and Ling, Haibin and Huang, Bingyao},
-  booktitle = {2026 IEEE Conference on Virtual Reality and 3D User Interfaces (in press)},
+  booktitle = {2026 IEEE Conference on Virtual Reality and 3D User Interfaces},
   title     = {ProCap: Projection-Aware Captioning for Spatial Augmented Reality},
   year      = {2026},
   doi       = {10.1109/VR67842.2026.00026}
